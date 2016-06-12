@@ -1,0 +1,28 @@
+{
+    "name": "createjs-suite",
+    "filename": "dist/easeljs-0.8.2.min.js",
+    "main": "dist/easeljs-0.8.2.min.js",
+    "version": "0.1.0",
+    "description": "CreateJS Suite for Front-End JS Framework.",
+    "keywords": [
+        "CreateJS",
+        "easelJS",
+        "easel"
+    ],
+    "maintainers": [
+        {
+            "name": "Leonardo da Silva",
+            "facebook": "DigitalZ"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/digitalz4k/createjs-suite.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
